@@ -1,0 +1,18 @@
+https://github.com/skandhwa/Batch4GITPractice.git
+
+
+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 
+
+
+
+1>We created a Repo in GIT HUB
+
+2> We created a Folder in our local
+
+3> GIT Init ----Initialize an empty repository
+
+4>Clone the repository whcih we created in step 1
+
+5>We added the files to the cloned repo
+
+6>WE added ,commited and pushed the file to the repo 
